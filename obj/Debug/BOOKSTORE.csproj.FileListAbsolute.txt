@@ -1,0 +1,38 @@
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\bin\Debug\BOOKSTORE.exe
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\bin\Debug\BOOKSTORE.pdb
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.CUSTOMER_DETAILS.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.Properties.Resources.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.csproj.GenerateResource.Cache
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.exe
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.pdb
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.EMPLOYEE.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.Login.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.MENU.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.CUSTOMER_INFORMATION.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.BOOK1.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.Form1.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.EMPLOYEE_MENU.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.exe
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.pdb
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\bin\Debug\BOOKSTORE.exe
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\bin\Debug\BOOKSTORE.pdb
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.BOOK1.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.CUSTOMER_DETAILS.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.CUSTOMER_INFORMATION.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.EMPLOYEE_MENU.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.EMPLOYEE.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.Form1.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.Login.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.MENU.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.Properties.Resources.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.csproj.GenerateResource.Cache
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.SplashScreen.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.PRIVACYPOLICY.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.PRIVACYPOLICY.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.SplashScreen.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.CONTACT_US.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.CATALOGUE.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.CATALOGUE.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Debug\BOOKSTORE.CONTACT_US.resources

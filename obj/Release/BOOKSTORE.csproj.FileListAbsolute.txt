@@ -1,0 +1,46 @@
+C:\Users\L4G2\AppData\Local\Temporary Projects\BOOKSTORE\bin\Release\BOOKSTORE.exe
+C:\Users\L4G2\AppData\Local\Temporary Projects\BOOKSTORE\bin\Release\BOOKSTORE.pdb
+C:\Users\L4G2\AppData\Local\Temporary Projects\BOOKSTORE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L4G2\AppData\Local\Temporary Projects\BOOKSTORE\obj\Release\BOOKSTORE.Form1.resources
+C:\Users\L4G2\AppData\Local\Temporary Projects\BOOKSTORE\obj\Release\BOOKSTORE.Properties.Resources.resources
+C:\Users\L4G2\AppData\Local\Temporary Projects\BOOKSTORE\obj\Release\BOOKSTORE.csproj.GenerateResource.Cache
+C:\Users\L4G2\AppData\Local\Temporary Projects\BOOKSTORE\obj\Release\BOOKSTORE.exe
+C:\Users\L4G2\AppData\Local\Temporary Projects\BOOKSTORE\obj\Release\BOOKSTORE.pdb
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.exe
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.pdb
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\bin\Release\BOOKSTORE.exe
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\bin\Release\BOOKSTORE.pdb
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.CUSTOMER_DETAILS.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.Properties.Resources.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.csproj.GenerateResource.Cache
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.MENU.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.EMPLOYEE.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.Login.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.CUSTOMER_INFORMATION.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.BOOK1.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.Form1.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.EMPLOYEE_MENU.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.PRIVACYPOLICY.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.SplashScreen.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.BOOK1.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.CATARLOGUE.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.CONTACT_US.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.CUSTOMER_DETAILS.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.CUSTOMER_INFORMATION.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.EMPLOYEE_MENU.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.EMPLOYEE.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.Form1.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.Login.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.MENU.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.PRIVACYPOLICY.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.Properties.Resources.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.SplashScreen.resources
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.csproj.GenerateResource.Cache
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\bin\Release\BOOKSTORE.exe
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\bin\Release\BOOKSTORE.pdb
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.exe
+C:\Users\nomfusi kibido\Desktop\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.pdb
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.CATALOGUE.resources
+C:\Users\L4G2\Documents\Visual Studio 2008\Projects\BOOKSTORE\BOOKSTORE\obj\Release\BOOKSTORE.CONTACT_US.resources
